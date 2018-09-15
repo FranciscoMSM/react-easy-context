@@ -1,6 +1,6 @@
 # react-easy-context
 
-Easy context management for simple apps.
+(another) Easy context management for simple apps.
 This library aims to provide a simple API to a multi-store state manager leveraging react new context API.
 It's not meant to be used in complex applications and it should work on react-native without further configuration (haven't tested yet though).
 
