@@ -31,9 +31,9 @@ const { Provider, MainConsumer, UserConsumer } = createContext(
 
 // Wrap your top-level component with Provider component
 ```
-***createContext*** result is a object containing both the Provider and the respective Store Consumers, and also a MainConsumer, a consumer with all the stores data and actions combined.
+***createContext*** result is an object containing both the Provider and the respective Store Consumers, and a MainConsumer, a consumer with all the stores data and actions combined.
 
-See [API Reference](#reference) below to a complete description of the possible config parameters you can pass to ***buildStore***.
+See [API Reference](#reference) below to a complete description of the possible configuration parameters you can pass to ***buildStore***.
 
 
 ### Consuming data from stores
