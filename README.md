@@ -120,5 +120,6 @@ Actions that change more than one store should favour the use of MainConsumer cr
 * Improve readme
   * Add more complex examples
   * Structure folder suggestion
+* Add eslint-prettier
 * Upgrade dependencies
 * Middleware thinking (?)
